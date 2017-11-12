@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510493426 source:c:\users\tanim\documents\tanimdocment\don't cut it\uva272\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
