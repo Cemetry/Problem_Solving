@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510595647 source:c:\users\tanim\desktop\algorithm lab\knapsack\knapsack2.cpp
+	<iostream>
+	<algorithm>
+
+1510593705 source:c:\users\tanim\desktop\algorithm lab\knapsack\main.cpp
+	<bits/stdc++.h>
+
