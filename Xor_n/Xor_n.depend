@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510707695 source:c:\users\tanim\desktop\algorithm lab\xor_n\main.cpp
+	<iostream>
+	<algorithm>
+
