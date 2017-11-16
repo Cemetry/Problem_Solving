@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510139319 source:c:\users\tanim\desktop\numerical lab\lagrange_interpolation\main.cpp
+	<fstream>
+	<fstream>
+	<iostream>
+	<fstream>
+
